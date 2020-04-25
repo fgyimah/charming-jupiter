@@ -5,17 +5,16 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I am gyimah Francis, a fullstack web and mobile developer, with keen interest in DevOps and Machine Learning
+      I am open to new opportunities. Feel free to get in contact with me anytime and let's talk
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      My skills include backend web development in express and nestjs in both TypeScript and JavaScript. 
+      Frontend developement with ReactJS, VueJS and Angular. Good knowledge of databases like MySQL, PostgreSQL and MongoDB.
+      I love DevOps, CI/CD with CircleCI and containerization with Docker and Kubernetes.
     actions:
       - label: Contact Me
         url: /contact

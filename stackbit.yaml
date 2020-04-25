@@ -9,10 +9,10 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Fresh
-  description: A personal theme with a blog
-  author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  title: Blog - by Francis
+  description: My personal blogging site
+  author: Francis Gyimah <fgyimah883@gmail.com>
+  authorURL: 'https://learndev.netlify.app/about/'
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
